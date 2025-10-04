@@ -10,7 +10,7 @@ function Body() {
         <div className="info">
         <h1>pankaj kumar</h1>
         <h3>Full Stack Developer more focused on backend development with some handson data analytics</h3>
-        <h4>Skills: puthon, excel sql, nosql fastapi</h4>
+        <h4>Skills: python, excel sql, nosql fastapi</h4>
         <p>Passionate about building web applications and learning new technologies.</p>
         <div className="socials">
             <a href="https://github.com/pankaj8700">GitHub</a>
