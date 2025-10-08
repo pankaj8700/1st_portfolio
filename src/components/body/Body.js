@@ -1,7 +1,7 @@
 import firstimage from "../../assets/profile.jpg";
 import "./body.css"
 
-function Body() {
+export default function Body() {
     return (
     <div className="body">
         <div className="profile">
@@ -21,4 +21,3 @@ function Body() {
 );
 }
 
-export default Body;
